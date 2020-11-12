@@ -18,5 +18,6 @@
 <h4><b><ins>Provided files:</ins></b></h4>
 
 #### The 2 following reports extract and expose the main pieces of work:<br> _"wrangle_report.ipynb"_, presents the main wrangling steps as well as the biggest challenges encountered, while _"act_report.ipynb"_ brings a summary of the most interesting findings of the analysis I conducted.
-#### All the steps taken in this project are detailed in the jupyter notebook _"wrangle_act.ipynb"_.
+#### All the steps taken in this project are detailed in the jupyter notebook _"wrangle_act.ipynb"_.<br>To view the notebook with working Table of Contents and anchor links (GitHub do not render Jupyter notebooks in a way that these work!) please use "nbviewer" and just click the following link:
+https://nbviewer.jupyter.org/github/rinkalaone/wrangle-data_udacity-project4/blob/master/wrangle_act.ipynb
 #### The review from a Udacity mentor, is included in _"mentor_review.pdf"_, validating that the project passed successfully for certification.
