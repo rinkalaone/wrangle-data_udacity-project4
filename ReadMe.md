@@ -3,11 +3,11 @@
 
 ### from the "Data Analyst Nanodegree Program" - Udacity Certificate
 
-#### This project focused on aquiring fundamental skills in <i>Data Wrangling</i>. The Dataset chosen, comes from a popular Tweeter Account "WeRateDogs", sharing and "rating" Dogs' Pictures sent by their owner. After wrangling the data, we identifyied a few variables of interest and conducted an analysis, to try and find out if and how they influenced the popularity of the tweets. Finally, we gathered our results and documented them in two reports, one focusing on the <i>Wrangling</i> work and the second, on our <i>Exploratory Analysis</i>.
+#### This project focused on acquiring fundamental skills in <i>Data Wrangling</i>. The Dataset chosen, comes from a popular Tweeter Account "WeRateDogs", sharing and "rating" Dogs' Pictures sent by their owner. After wrangling the data, we identified a few variables of interest and conducted an analysis, to try and find out if and how they influenced the popularity of the tweets. Finally, we gathered our results and documented them in two reports, one focusing on the <i>Wrangling</i> work and the second, on our <i>Exploratory Analysis</i>.
 
 <h4><b><ins>Learning goals and achieved tasks:</ins></b></h4>
 
-* aquiring data, according to different common scenarios: importing CSV files, programmatically downloading files (with the <i>requests</i> python library) and querying an API (here using the <i>tweepy</i> wrapper to the Twitter API and the <i>json</i> library to process the responses obtained)
+* acquiring data, according to different common scenarios: importing CSV files, programmatically downloading files (with the <i>requests</i> python library) and querying an API (here using the <i>tweepy</i> wrapper to the Twitter API and the <i>json</i> library to process the responses obtained)
 * assessing the data (using numpy and pandas libraries), to identify <i>Quality and Tidiness Issues</i>
 * cleaning the data, following the <i>Define, Clean, Test</i> process and using the pandas and regex libraries, for tasks such as:
      * merging Dataframes
